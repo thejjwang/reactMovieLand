@@ -18,4 +18,4 @@ Follow these steps to get the project up and running on your local machine.
    Use Git to clone the MovieLand repository to your local machine. Replace `[Your Repository]` with your repository name:
 
    ```bash
-   git clone https://github.com/[Your Repository]/MovieLand.git
+   git clone https://github.com/[Your Repository]/reactMovieLand.git
